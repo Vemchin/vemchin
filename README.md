@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou vemchin 👋
 
-<!--
-**Vemchin/vemchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor(a) focado(a) em [tecnologias/áreas que você domina]. 
+Atualmente estou trabalhando em [projeto atual].
 
-Here are some ideas to get you started:
+## 🚀 Meus Projetos:
+- [Nome do Projeto 1](link)
+- [Nome do Projeto 2](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Me Encontre:
+- [LinkedIn](link)
+- [Twitter](link)
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunomeusuario&show_icons=true)
