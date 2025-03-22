@@ -21,7 +21,7 @@
 > daorinha até
 ```
 
-<a href="#"><img align="left" src="https://media.discordapp.net/attachments/1158482995020304475/1352783699111837739/3894975e47f5c429bbf28c0ca004adb5.jpg?ex=67df457f&is=67ddf3ff&hm=89be1dcbf3f535dd1eb2657abc0627a750317b3864b4c668aaff99460ba8bc6c&=&format=webp" width="185"/> 
+<a href="#"><img align="left" src="https://media.discordapp.net/attachments/1158482995020304475/1352800600856989736/33df2d0b-25b3-4d2e-8067-eaaf34fc89fe.jpeg?ex=67df553d&is=67de03bd&hm=c850336b7e5f5be3dee772cad8840e84c448d0388775529b09b33eca01038127&=&format=webp" width="185"/> 
 
 
 ```lua
