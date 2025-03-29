@@ -7,7 +7,7 @@
 <br>
 <br>
 
-***`Desenvolvedor Junior`***
+**`Desenvolvedor Junior`**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
