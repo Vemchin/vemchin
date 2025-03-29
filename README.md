@@ -18,10 +18,13 @@
   
   ---
  
-<div> 
- <a href="https://discord.gg/TNcMhe9JXv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vemchinx1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+<div align="center">
+  <a href="https://discord.gg/TNcMhe9JXv" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a> 
+  <a href="mailto:vemchinx1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ###
@@ -45,3 +48,12 @@
 </p>
 
 
+<br>
+<p align="center">
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FDarkMod3"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=DarkMod3&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/DarkMod3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+</p>
+<a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
+</a>
