@@ -1,58 +1,22 @@
+## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 
-<p align="center">
-    ‹ Este perfil só funciona no tema escuro do GitHub ›
-</p>
-<br>
-<a href="https://github.com/=Vemchin">
-    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Vemchin!;Seja+bem-vindo(a)+ao+meu+perfil."/>
-</a>
-<br>
-<p align="center">
-    <a href="https://DarkMod3.github.io"><img width="8%" alt="Website" title="Website" src="https://i.imgur.com/KWGHpPv.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://steamcommunity.com/id/vemchinzzz"><img width="8%" alt="Steam" title="Steam" src="https://i.imgur.com/7oDaYeL.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vemchin&show_icons=true&theme=radical)
 
-<br><br><br>
-
-```zsh
-> daorinha até
-```
-
-<a href="#"><img align="left" src="https://media.discordapp.net/attachments/1158482995020304475/1352800600856989736/33df2d0b-25b3-4d2e-8067-eaaf34fc89fe.jpeg?ex=67df553d&is=67de03bd&hm=c850336b7e5f5be3dee772cad8840e84c448d0388775529b09b33eca01038127&=&format=webp" width="185"/> 
-
-
-```lua
-Vemchin@GitHub
-▔▔▔▔▔▔▔▔
-OS: Windows 11 x64
-Shell: Windows Terminal
-Pronouns: Ele/Dele
-Location: Brasil, SP
-Learning: JavaScript, HTML, Css
-Languages: None
-Hobbies: Gym, Sleep, Programming
-```
-
-<br><br>
-
----
-
-<br><br>
-
-<p align="center"><strong>GitHub Status</strong></p>
-
-| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="https://github.com/DarkMod3/NightBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vemchin&repo=NightBox&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vemchin&repo=CMSP-Plataformas-Hacks&theme=github_dark&border_color=30363f&border_radius=0"/></a></p> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Vemchin&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=Vemchin&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
-|--|--|
-
-<br>
-<p align="center">
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FVemchin"/></a>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=Vemchin&style=for-the-badge&label=Views:&color=gray"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Vemchin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
-</p>
-<a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
-</a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/@vemchin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/TNcMhe9JXv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vemchinx1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
